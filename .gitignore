@@ -1,0 +1,22 @@
+# 本地环境 / 个人工具
+.obsidian/
+APP/
+music/
+music.lnk
+
+# 素材与中间产物（不发布）
+建站准备/
+_backup/
+_clips/
+_deploy/
+_frames/
+_shots/
+
+# 本地页面与文档（不发布）
+videos.html
+gate.html
+*.docx
+部署/
+rule.md
+log.md
+direction-approved.md
